@@ -3,3 +3,5 @@ plugins:
 - jekyll-remote-theme #
 title: [Blinkit Data Analysis]
 description: [Blinkit Data Analysis Using Pandas]
+
+logo: /images/zepto.png
